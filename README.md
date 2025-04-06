@@ -8,7 +8,7 @@ I’ve previously worked as a **Machine Learning Engineer**, building and integr
 
 Currently I'm strengthening my fundamental knowledge at **San Jose State University** by pursuing a **Master’s in Computer Science**.
 
-Ex-Software Engineer @ Zebra Technologies | ML Engineer @ Inhabitr
+Ex-ML Engineer @ Inhabitr | Software Engineer @ Zebra Technologies
 
 **Interests:** Generative AI, LLMs, ML Systems, Full-Stack development
 
